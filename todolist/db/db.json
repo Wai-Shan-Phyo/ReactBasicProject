@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "id": "1e8cee82-f148-70f3-aa50-284e68320322",
+      "title": "Kali Net Hunter",
+      "complete": false
+    },
+    {
+      "id": "422aa733-d50d-2575-d281-7a13adb0a14a",
+      "title": "Bug Bountry",
+      "complete": false
+    },
+    {
+      "id": "a3426486-de8f-20f6-c6ba-9c59a3d5367a",
+      "title": "Black Hack Family",
+      "complete": false
+    }
+  ]
+}
